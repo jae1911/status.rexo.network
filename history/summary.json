@@ -4,19 +4,19 @@
     "url": "https://rexo.network",
     "icon": "https://icons.duckduckgo.com/ip3/rexo.network.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 457,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 598,
+    "timeDay": 505,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2024-05-02": 0
+      "2024-05-02": 8
     }
   },
   {
