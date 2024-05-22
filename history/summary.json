@@ -4,9 +4,9 @@
     "url": "https://rexo.network",
     "icon": "https://icons.duckduckgo.com/ip3/rexo.network.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-02": 8
     }
   },
