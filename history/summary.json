@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rexo.network.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "90.38%",
+    "uptime": "89.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.71%",
-    "uptimeMonth": "78.97%",
-    "uptimeYear": "90.38%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.83%",
+    "uptimeYear": "89.51%",
     "time": 644,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 686,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-07-03": 1,
+      "2024-07-03": 939,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -52,9 +52,9 @@
     "url": "ns1.rexo.network",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,7 +63,9 @@
     "timeWeek": 158,
     "timeMonth": 146,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "awa",
